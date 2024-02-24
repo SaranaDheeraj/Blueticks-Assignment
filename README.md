@@ -11,11 +11,19 @@ This repository contains a minimal setup for running a React project using Vite,
    ```
 
 2. Navigate to the project directory:
-   cd <project-directory>
 
-3. Install the dependencies using npm
+   ```bash
+    cd project directory
+   ```
+
+3. Install the dependencies using npm:
+
+   ```bash
    npm install --force
+   ```
 
 4. Usage
    To start the development server and run the project locally, use the following command:
+   ```bash
    npm run dev
+   ```
