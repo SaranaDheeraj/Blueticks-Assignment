@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <Flex
       as="footer"
-      my="150px"
+      mt="150px"
       p={7}
       borderTop="1px solid gray"
       gap={7}
